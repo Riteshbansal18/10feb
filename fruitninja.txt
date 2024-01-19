@@ -1,8 +1,13 @@
 this is first line of code
-this is second line of code
 this is third line of code
-this is fourth line of code
+this is third line of code
+this is second  line of code
 this is five line of code
-this is sixth  line of code
+this is seven  line of code
 this is seven line of code
-this is eigth line of code
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        deleted:    
+hello 123 1223 123 
